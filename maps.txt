@@ -1,0 +1,63 @@
+MWR MAP SHORT NAMES ROTATION LIST
+
+Ambush - mp_convoy
+Backlot - mp_backlot
+Bog - mp_bog
+Crash - mp_crash
+Crossfire - mp_crossfire
+District - mp_citystreets
+Downpour - mp_farm
+Overgrown - mp_overgrown
+Shipment - mp_shipment
+Vacant - mp_vacant
+Broadcast - mp_boardcast
+Chinatown - mp_carentan
+Countdown - mp_countdown
+Bloc - mp_bloc
+Creek - mp_creek
+Killhouse - mp_killhouse
+Pipeline - mp_pipeline
+Strike - mp_strike
+Showdown - mp_showdown
+Wet Work - mp_cargoship
+Winter Crash - mp_crash_snow
+Day Break - mp_farm_spring
+Beach Bog - mp_bog_summer
+MW2CR MAP SHORT NAMES ROTATION LIST
+
+Airport - airport
+Blizzard - cliffhanger
+Contingency - contingency
+DC Burning - dcburning
+Dumpsite - boneyard
+Gulag - gulag
+Oilrig - oilrig
+Safehouse - estate
+Whiskey Hotel - dc_whitehouse
+MW2 MAP SHORT NAMES ROTATION LIST
+
+Afghan - mp_afghan
+Derail - mp_derail
+Estate - mp_estate
+Favela - mp_favela
+Highrise - mp_highrise
+Invasion - mp_invasion
+Karachi - mp_checkpoint
+Quarry - mp_quarry
+Rundown - mp_quarry
+Rust - mp_rust
+Scrapyard - mp_boneyard
+Skidrow - mp_nightshift
+Sub Base - mp_subbase
+Terminal - mp_terminal
+Underpass - mp_underpass
+Wasteland - mp_brecourt
+Bailout - mp_complex
+Salvage - mp_compact
+Storm - mp_storm
+Carnival - mp_abandon
+Fuel - mp_fuel2
+Trailer Park - mp_trailerpark
+H2M-MOD DLC MAP NAMES ROTATION LIST
+
+COMING SOON
