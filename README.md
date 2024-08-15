@@ -33,13 +33,13 @@ This tool is a graphical user interface (GUI) application designed to simplify t
 
 ## Usage
 
-1. Run the script: python server_config_tool.py
+1. Run the script: python servcfg.py
 2. Use the GUI to modify server settings, game modes, map rotations, and custom DVars.
 3. Click the "Save Config" button to apply your changes to the `server.cfg` file.
 
 ## File Structure
 
-- `server_config_tool.py`: The main Python script containing the configuration tool code.
+- `servcfg.py`: The main Python script containing the configuration tool code.
 - `server.cfg`: The server configuration file that will be read from and written to.
 - `maps.txt`: A file containing the list of available maps, categorized by H2M, MW2CR, MWR, MW2.
 
