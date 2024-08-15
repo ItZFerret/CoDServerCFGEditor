@@ -41,7 +41,7 @@ This tool is a graphical user interface (GUI) application designed to simplify t
 
 - `server_config_tool.py`: The main Python script containing the configuration tool code.
 - `server.cfg`: The server configuration file that will be read from and written to.
-- `maps.txt`: A file containing the list of available maps, categorized by game version.
+- `maps.txt`: A file containing the list of available maps, categorized by H2M, MW2CR, MWR, MW2.
 
 ## Notes
 
